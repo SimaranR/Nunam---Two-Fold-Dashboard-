@@ -39,7 +39,6 @@
    - Add a small GIF of the UI dashboard in a working situation to show its workings and usability.
    - ![Dashboard GIF](path/to/your/dashboard.gif)
 
-
 ---
 
 ---
